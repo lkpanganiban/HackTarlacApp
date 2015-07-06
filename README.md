@@ -22,9 +22,9 @@ View the application yourself.
 
 Developed by:
 
- * Romer Kristi Aranas
- * Charmyne Mamador
- * Luis Caezar Ian Panganiban
+ * [Romer Kristi Aranas](https://github.com/rukku)
+ * [Charmyne Mamador](https://github.com/chamthesleeptalker)
+ * [Luis Caezar Ian Panganiban](https://github.com/lkpanganiban)
 
 
 Kudos to [Bryan McBride](https://github.com/bmcbride) for creating [Bootleaf](https://github.com/bmcbride/bootleaf) which became the main template of the application. 
